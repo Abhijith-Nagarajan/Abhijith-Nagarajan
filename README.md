@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhijith-Nagarajan. I'm 21 and from Chennai, India.
+- 👋 Hi, I’m @Abhijith-Nagarajan. I'm 22 and from Chennai, India.
 - :technologist: I'm working at HP Inc, Bangalore.
 - 👀 I’m interested in Machine learning and Data Science.
 - 🌱 I’m currently learning NLP and time series analysis and forecasting
