@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhijith-Nagarajan. I'm 23 and from Chennai, India.
-- :technologist: I'm working at HP Inc, Bangalore as an RPA Developer.
+- :technologist: I'm a grad student at UIUC with two years of work experience at Hewlett Packard Inc, India
 - 👀 I’m interested in Predictive Analytics and Business Data Science.
 - 🌱 I’m currently learning time series analysis 
 
