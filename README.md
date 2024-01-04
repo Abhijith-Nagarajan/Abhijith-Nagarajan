@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhijith-Nagarajan. I'm 23 and from Chennai, India.
+- 👋 Hi, I’m @Abhijith-Nagarajan.
 - :technologist: I'm a grad student at UIUC with two years of work experience at Hewlett Packard Inc, India
 - 👀 I’m interested in Predictive Analytics and Business Data Science.
 - 🌱 I’m currently learning time series analysis 
