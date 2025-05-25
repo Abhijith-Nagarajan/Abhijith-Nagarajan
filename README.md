@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhijith-Nagarajan.
-- :technologist: I'm a grad student at UIUC with two years of work experience at Hewlett Packard Inc, India
-- 👀 I’m interested in Predictive Analytics and Business Data Science.
+- :technologist: I'm a grad student in Statistics at UIUC with three years of work experience at Hewlett Packard Inc and Bayer.
+- 👀 I’m interested in Predictive Analytics, Business Data Science, and Large Language Model research.
 - 🌱 I’m currently learning about Agentic AI 
 
 <!---
