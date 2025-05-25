@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhijith-Nagarajan.
 - :technologist: I'm a grad student at UIUC with two years of work experience at Hewlett Packard Inc, India
 - 👀 I’m interested in Predictive Analytics and Business Data Science.
-- 🌱 I’m currently learning time series analysis 
+- 🌱 I’m currently learning about Agentic AI 
 
 <!---
 Abhijith-Nagarajan/Abhijith-Nagarajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
