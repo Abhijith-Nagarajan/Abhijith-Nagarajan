@@ -3,7 +3,7 @@
 - 🎓 My academic background spans Statistics and Computer Science.
 - 🧬 I’m actively involved in Large Language Model research to improve reasoning for biomedical LLMs using knowledge graphs.
 - 🛠️ I’m currently building AI agents to focus on mental wellbeing, nutrition, and fitness.
-- 🌱 I love upskilling and experimenting with technology to solve business and social problems.
+- 🌱 I love upskilling and experimenting with technology to solve business and social challenges.
 - ⚖️ In my spare time, I enjoy working out, attending live events, exploring cuisines, watching sports, and listening to podcasts. 
 
 <!---
